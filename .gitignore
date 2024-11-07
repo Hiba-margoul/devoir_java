@@ -1,0 +1,16 @@
+# Dossiers de build
+/target/
+
+# Configurations spécifiques aux IDE
+*.iml
+.idea/
+*.classpath
+*.project
+*.settings/
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
